@@ -18,5 +18,6 @@ class String
  new_array = self.split(".?!")\
  new_array.count
   binding.pry
+end
   end
 end
